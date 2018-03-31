@@ -6,11 +6,11 @@ All members, speakers, sponsors and volunteers at our events and chats are requi
 
 # Keeping it short:
 
-We all shall provide a harassment-free experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). Sexual language and imagery is not appropriate for any event venue, including talks, workshops, parties, Twitter and other online media. Event participants violating these rules may be sanctioned or expelled from the event without a refund (if applicable) at the discretion of the Surrey CodeCamp organizers.
+We all shall provide a harassment-free experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). Sexual language and imagery is not appropriate for any event venue, including talks, workshops, parties, Twitter and other online media. Event participants violating these rules may be sanctioned or expelled from the event without a refund (if applicable) at the discretion of the SurreyCodes organizers.
 
 # What not to do:
 
-These are the rules/the things this space is not for. Breaking any of these will result in your prompt removal from SurreyCodeCamp.
+These are the rules/the things this space is not for. Breaking any of these will result in your prompt removal from SurreyCodes.
 
 
 * No harassment, including personal attacks, offensive verbal attacks.<br>
