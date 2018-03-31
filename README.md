@@ -1,6 +1,6 @@
 # Code-of-Conduct
 
-Welcome to <a href="http://surreycodecamp.com">Surrey CodeCamp</a>!, An always growing community of Tech in Surrey,BC.
+Welcome to <a href="http://surreycodes.com">SurreyCodes</a>!, An always growing community of Tech in Surrey,BC.
 
 All members, speakers, sponsors and volunteers at our events and chats are required to agree with the following code of conduct. Organizers will enforce this code throughout the events and communication channels such as Slack, twitter among others. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
 
